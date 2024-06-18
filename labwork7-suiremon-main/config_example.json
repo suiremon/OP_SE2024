@@ -1,0 +1,16 @@
+{
+  "cities": [
+    "Saint Petersburg",
+    "Moscow",
+    "Novosibirsk",
+    "Kazan",
+    "Sochi",
+    "Chelyabinsk",
+    "Kaliningrad", 
+    "Omsk",
+    "Norilsk"
+  ],
+  "frequency": 5,
+  "days": 7,
+  "API key" : "ENTER YOUR API KEY HERE"
+}
